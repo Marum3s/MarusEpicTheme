@@ -3,7 +3,4 @@ body {
     container-name: body;
     --font: 'lexend';
     --code-font: '';
-    --gap: 12px; /* spacing between panels */
-
-    --border-hover-transition: 0.2s ease;
 }
