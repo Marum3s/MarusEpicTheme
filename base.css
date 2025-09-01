@@ -1,1 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+body {
+    container-name: body;
+    --font: 'lexend';
+    --code-font: '';
+    --gap: 12px; /* spacing between panels */
+
+    --border-hover-transition: 0.2s ease;
+}
